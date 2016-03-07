@@ -11,6 +11,7 @@ body {
 	background: url('paper.jpeg') center fixed no-repeat;
 	background-size: cover;
 	width: 100%;
+	margin-left: 13%;
 }
 
 button {
@@ -37,7 +38,7 @@ li {
 	font-family: futura;
 	font-size: 20px;
 	font-weight: 800;
-	line-height: 40px;
+	line-height: 42px;
 	padding-bottom: 7px;
 	list-style-type: none;
 }
