@@ -8,8 +8,9 @@
 }
 
 body {
-	background-image: url('paper.jpeg');
-	width: 1000px;
+	background: url('paper.jpeg') center fixed no-repeat;
+	background-size: cover;
+	width: 100%;
 	margin-left: 100px;
 }
 
